@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinodMS
 - 👀 I’m interested in everything programming and architecture
-- 🌱 I’m currently learning kubernetes
+- 🌱 I’m currently learning Kafka
 - 💞️ I’m looking to collaborate on anything
 <!-- - 📫 How to reach me  -->
 
